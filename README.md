@@ -1,0 +1,2 @@
+# suicideapp
+suicide app
